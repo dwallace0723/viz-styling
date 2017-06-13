@@ -1,0 +1,29 @@
+  body {
+    background: #ffffff !important;
+  }
+  
+  .chart {
+    background-color: #ffffff;
+    border: none;
+  }
+  
+  .mode-embed .mode-object {
+    border: none;
+    background: #ffffff;
+  }
+  
+  .ylabel {
+  background: #ffffff !important;
+  }
+  
+  .xlabel {
+  background: #ffffff !important;
+  }
+  
+  .xlabel h4 {
+    background: #ffffff;
+  }
+  
+  .ylabel h4 {
+    background: #ffffff !important;
+  }
